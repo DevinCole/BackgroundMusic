@@ -1,3 +1,5 @@
+Devin Cole
+
 <!-- vim: set tw=120: -->
 
 ![](Images/README/FermataIcon.png)
